@@ -6,5 +6,8 @@ class Artist
     #     @genre = genre
     # end
 
+    # also check to see if this works properly
+    
+
 
 end
